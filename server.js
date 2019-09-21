@@ -35,6 +35,6 @@ app.get('/about', (req, res)=> {
     });
 });
 
-app.listen(2000, () => {
+app.listen(3000, () => {
     console.log('server run ');
 });
